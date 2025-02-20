@@ -1,0 +1,57 @@
+WBS,Name,Duration,Start_Date,Finish_Date
+1,PEMBANGUNAN SUTT 150 kV MENES BARU - TANJUNG LESUNG,346 days,01 January 2025 08.00,12 December 2025 17.00
+1.1,REMAINING PEKERJAAN,346 days,01 January 2025 08.00,12 December 2025 17.00
+1.1.1,SERAH TERIMA ROW,206 days,30 January 2025 08.00,23 August 2025 17.00
+1.1.1.1,Serah Terima ROW section 4,1 day,30 January 2025 08.00,30 January 2025 17.00
+1.1.1.2,Serah Terima ROW section 3,1 day,22 February 2025 08.00,22 February 2025 17.00
+1.1.1.3,Serah Terima ROW section 2,1 day,15 May 2025 08.00,15 May 2025 17.00
+1.1.1.4,Serah Terima ROW section 1,1 day,23 August 2025 08.00,23 August 2025 17.00
+1.1.2,SECTION 4 (T.83 - T.101),61 days,31 January 2025 08.00,01 April 2025 17.00
+1.1.2.1,PEKERJAAN ROW CLEARANCE,14 days,31 January 2025 08.00,13 February 2025 17.00
+1.1.2.1.1,"ROW & Bush Clearing (5,886 Kmr)",14 days,31 January 2025 08.00,13 February 2025 17.00
+1.1.2.2,"PEKERJAAN STRINGING, SAGGING & CLAMPING",60 days,01 February 2025 08.00,01 April 2025 17.00
+1.1.2.2.1,Persiapan Stringing (Eret- eret & mobilisasi ACSR),21 days,01 February 2025 08.00,21 February 2025 17.00
+1.1.2.2.2,"Pekerjaan Stringing, Sagging & Clamping",45 days,16 February 2025 08.00,01 April 2025 17.00
+1.1.3,SECTION 3 (T.56 - T.83),95 days,23 February 2025 08.00,28 May 2025 17.00
+1.1.3.1,PEKERJAAN ROW CLEARANCE,18 days,23 February 2025 08.00,12 March 2025 17.00
+1.1.3.1.1,ROW & Bush Clearing (8.701 Kmr),18 days,23 February 2025 08.00,12 March 2025 17.00
+1.1.3.2,"PEKERJAAN STRINGING, SAGGING & CLAMPING",67 days,23 March 2025 08.00,28 May 2025 17.00
+1.1.3.2.1,Persiapan Stringing (Eret- eret & mobilisasi ACSR),25 days,23 March 2025 08.00,16 April 2025 17.00
+1.1.3.2.2,"Pekerjaan Stringing, Sagging & Clamping",50 days,09 April 2025 08.00,28 May 2025 17.00
+1.1.4,SECTION 2 (T.18 - T.56),246 days,01 January 2025 08.00,03 September 2025 17.00
+1.1.4.1,FABRIKASI STUB & TOWER,135 days,01 February 2025 08.00,15 June 2025 17.00
+1.1.4.1.1,Fabrikasi Stub (1 Set) - T.21,29 days,01 February 2025 08.00,01 March 2025 17.00
+1.1.4.1.2,Fabrikasi Tower (1 Set) - T.21,120 days,16 February 2025 08.00,15 June 2025 17.00
+1.1.4.2,PEKERJAAN PONDASI (Incl. Borepile),135 days,01 January 2025 08.00,15 May 2025 17.00
+1.1.4.2.1,"4 TIP (Material Stub Tersedia T.23, T.25, T.37, T.42)",90 days,01 January 2025 08.00,31 March 2025 17.00
+1.1.4.2.2,1 TIP (Material Stub Belum Tersedia T.21),45 days,02 March 2025 08.00,15 April 2025 17.00
+1.1.4.2.3,1 TIP (Efek masalah sosial T.18),45 days,01 April 2025 08.00,15 May 2025 17.00
+1.1.4.3,PEKERJAAN ERECTION STEEL STRUCTURE,57 days,27 April 2025 08.00,22 June 2025 17.00
+1.1.4.3.1,"7 TIP (Material Tower Tersedia T.20, T.23, T.25, T.29, T.33, T.37, T.42)",50 days,27 April 2025 08.00,15 June 2025 17.00
+1.1.4.3.2,1 TIP (Material Tower Belum Tersedia T.21),7 days,16 June 2025 08.00,22 June 2025 17.00
+1.1.4.4,PEKERJAAN ROW CLEARANCE,25 days,16 May 2025 08.00,09 June 2025 17.00
+1.1.4.4.1,ROW & Bush Clearing (12.091 Kmr),25 days,16 May 2025 08.00,09 June 2025 17.00
+1.1.4.5,"PEKERJAAN STRINGING, SAGGING & CLAMPING",98 days,29 May 2025 08.00,03 September 2025 17.00
+1.1.4.5.1,"Persiapan Stringing (Pasang roll, eret- eret & mobilisasi ACSR)",30 days,29 May 2025 08.00,27 June 2025 17.00
+1.1.4.5.2,"Pekerjaan Stringing, Sagging & Clamping",70 days,26 June 2025 08.00,03 September 2025 17.00
+1.1.5,SECTION 1 (T.01 - T.18),305 days,01 January 2025 08.00,01 November 2025 17.00
+1.1.5.1,FABRIKASI STUB & TOWER,135 days,01 February 2025 08.00,15 June 2025 17.00
+1.1.5.1.1,"Fabrikasi Stub (5 Set T.01, T.02, T.04, T.07, T.12)",29 days,01 February 2025 08.00,01 March 2025 17.00
+1.1.5.1.2,"Fabrikasi Tower (5 Set T.01, T.02, T.04, T.07, T.12) dan LLG",120 days,16 February 2025 08.00,15 June 2025 17.00
+1.1.5.2,PEKERJAAN PONDASI (Incl Borepile),195 days,01 January 2025 08.00,14 July 2025 17.00
+1.1.5.2.1,"4 TIP (Material Stub Tersedia T.03, T.05, T.14, T.15) dan LLG",90 days,01 January 2025 08.00,31 March 2025 17.00
+1.1.5.2.2,"5 TIP (Material Stub Belum Tersedia T.01, T.02, T.04, T.07, T.12)",90 days,02 March 2025 08.00,30 May 2025 17.00
+1.1.5.2.3,"2 TIP (Masalah sosial T.16, T.17)",45 days,31 May 2025 08.00,14 July 2025 17.00
+1.1.5.3,PEKERJAAN ERECTION STEEL STRUCTURE,77 days,23 June 2025 08.00,07 September 2025 17.00
+1.1.5.3.1,"4 TIP (Material Stub Tersedia T.03, T.05, T.14, T.15) dan LLG",35 days,23 June 2025 08.00,27 July 2025 17.00
+1.1.5.3.2,"5 TIP (Material Stub Belum Tersedia T.01, T.02, T.04, T.07, T.12)",42 days,28 July 2025 08.00,07 September 2025 17.00
+1.1.5.3.3,"2 TIP (Masalah sosial T.16, T.17)",14 days,25 July 2025 08.00,07 August 2025 17.00
+1.1.5.4,PEKERJAAN ROW CLEARANCE,21 days,24 August 2025 08.00,13 September 2025 17.00
+1.1.5.4.1,ROW & Bush Clearing (5.618 Kmr),21 days,24 August 2025 08.00,13 September 2025 17.00
+1.1.5.5,"PEKERJAAN STRINGING, SAGGING & CLAMPING",59 days,04 September 2025 08.00,01 November 2025 17.00
+1.1.5.5.1,"Persiapan Stringing (Pasang roll, eret- eret & mobilisasi ACSR)",15 days,04 September 2025 08.00,18 September 2025 17.00
+1.1.5.5.2,"Pekerjaan Stringing, Sagging & Clamping",45 days,18 September 2025 08.00,01 November 2025 17.00
+1.1.6,KOMISIONING,35 days,29 October 2025 08.00,02 December 2025 17.00
+1.1.6.1,Pengujian & Komisioning,35 days,29 October 2025 08.00,02 December 2025 17.00
+1.1.7,ADMINISTRASI,10 days,03 December 2025 08.00,12 December 2025 17.00
+1.1.7.1,Penyusunan Administrasi (As Build Drawing & Final Quantity),10 days,03 December 2025 08.00,12 December 2025 17.00
