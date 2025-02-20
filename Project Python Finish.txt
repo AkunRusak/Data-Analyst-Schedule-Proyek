@@ -1,0 +1,12 @@
+project_analyst = Unfinished
+Project_Timeline_Data_Analysis = Finished(data old)
+Project_Timeline_Data_Analysis_rev = Finished(miss data)
+Timeline_Analysis_Data-> revisi Code 1 = Finished(data old)
+			 revisi Code 2 = Finished(-data WBS)
+			 revisi Code 3 = data WBS
+			 revisi Code 4 = none
+			 revisi Code 5 = none
+			 revisi Code 6 = none
+			 revisi Code 7 = Unfinished(main error)
+			 revisi Code 8 = Finished(Flask old)
+			 revisi Code 9 = Finished(Flask new)
