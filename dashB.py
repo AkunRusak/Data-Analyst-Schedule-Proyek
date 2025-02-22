@@ -34,7 +34,7 @@ def update_graph():
 # Membuat window
 root = tk.Tk()
 root.title("Dashboard Penjualan")
-root.geometry("800x600")
+root.geometry("900x600")
 
 # Frame untuk kontrol
 control_frame = ttk.Frame(root)
